@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="st_wpn_ak103_bp">
+		<text>AK-103 Custom</text>
+	</string>
+	<string id="st_wpn_ak103_bp_descr">
+		<text>This is a modified AK-103 rebuilt in bullpup configuration. It has also been further modified to take 9x39 subsonic ammo. The compact size combined with the hard hitting, silent ammo make this a great weapon for covert urban combat.\n \n
+		</text>
+	</string>	
+</string_table>
